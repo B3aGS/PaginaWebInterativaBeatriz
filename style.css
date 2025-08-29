@@ -14,7 +14,7 @@ header{
 section {
     background: rgb(105, 142, 153);
     padding-bottom: 80px;
-    pading-top: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 
@@ -23,4 +23,10 @@ section {
 .chamada-texto {
 
     margin-right: 5%;
+
+h1 { font-size: 80px;
+
+}
+
+p{ font-size: 50px;
 }
